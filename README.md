@@ -16,6 +16,6 @@
 🐼
 ## Acesse o projeto
 
-<a href="(https://giiovanaa.github.io/hortus/)" style="color: green; text-decoration: none ;text-decoration-style: dotted;">Acesse Aqui</a>
+<a href="https://giiovanaa.github.io/hortus/" style="color: green; text-decoration: none ;text-decoration-style: dotted;">Acesse Aqui</a>
 
 [Acesse Aqui](https://giiovanaa.github.io/hortus/)

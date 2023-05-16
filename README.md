@@ -9,6 +9,8 @@
 
 O Objetivo deste site foi apresentar a solução desenvolvida para a problemática 'diminuição de carbono' na cidade de São Paulo, Brasil. 
 
+<br><br><br>
+
 
 ## → Tecnologias utilizadas no projeto 
 

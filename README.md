@@ -16,4 +16,4 @@ O Objetivo deste site foi apresentar a solução desenvolvida para a problemáti
 <img src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="35pm"></img>
 
 
-<h1 align="center"> 🡕 [Acesse o projeto](https://giiovanaa.github.io/hortus/) </h1>
+<h1 align="center"> 🡕 <a href="https://giiovanaa.github.io/hortus/"> Acesse o projeto </a> </h1>
